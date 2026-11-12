@@ -1,0 +1,4 @@
+com\cms\security\AuthenticationAndSecurityTest.class
+com\cms\security\SecurityAndRoleIsolationTest.class
+com\cms\repository\RepositoryIntegrationTest.class
+com\cms\service\EnrollmentServiceTest.class

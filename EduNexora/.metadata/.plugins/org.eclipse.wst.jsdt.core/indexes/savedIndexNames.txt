@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+D:\Java Project\EduNexora\EduNexora\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2808300353.index
+2247852902.index
+775047045.index
+2422916288.index
+4200183732.index
